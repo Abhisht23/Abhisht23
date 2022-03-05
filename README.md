@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chess, Cricket, Travelling and Stock Markets are :heartpulse:
 -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisht23)](https://github.com/Abhisht23/github-readme-stats)
