@@ -1,8 +1,12 @@
 <!-- ### Hi there 👋
 ## I'm Abhisht -->
 
-### <h1 align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=F7D927&center=true&vCenter=true&lines=Hi%2C+I'm+Abhisht Jindal)(https://git.io/typing-svg) </h1>
-<h6 align="center">A Full Stack Developer.</h6>
+### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=F7D927&center=true&vCenter=true&lines=Hi%2C+I'm+Ayushi+Srivastava)](https://git.io/typing-svg) </h1>
+<h6 align="center">A passionate Full Stack Developer.</h6>
+<h1 align="center">Namastey🙏, Swagat hai!!</h1>                  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Abhisht23.Abhisht23">
+<img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="150" align="right"/>
+
 
 <!--**Abhisht23/Abhisht23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
