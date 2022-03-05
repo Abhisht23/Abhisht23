@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chess, Cricket, Travelling and Stock Markets are :heartpulse:
 <br><br>
-
+<br><br>
 ### Languages and Tools I use
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <!--<img align="left" alt="robo3t" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/robo3t/robo3t.png" />-->
