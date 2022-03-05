@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Chess, Cricket, Travelling and Stock Markets are :heartpulse:
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisht23theme=tokyonight)](https://github.com/Abhisht23/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisht23&show_icons=true&theme=tokyonight)
