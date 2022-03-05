@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chess, Cricket, Travelling and Stock Markets are :heartpulse:
 <br><br>
-<br><br>
+
 ### Languages and Tools I use
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <!--<img align="left" alt="robo3t" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/robo3t/robo3t.png" />-->
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" height="26px" width="26px" src="https://github.com/dhanishgajjar/vscode-icons/blob/7078081b8a334c0d69b20dabab78c526899a471d/png/default_dark.png" alt="VS Code"/>
-
+<br><br>
 
 <br><br>
 
