@@ -1,5 +1,8 @@
-### Hi there 👋
-## I'm Abhisht
+<!-- ### Hi there 👋
+## I'm Abhisht -->
+
+### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=F7D927&center=true&vCenter=true&lines=Hi%2C+I'm+Abhisht Jindal)](https://git.io/typing-svg) </h1>
+<h6 align="center">A Full Stack Developer.</h6>
 
 <!--**Abhisht23/Abhisht23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
