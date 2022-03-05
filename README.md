@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Abhisht23/Abhisht23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: abhishtjindal2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chess, Cricket, Travelling and Stock Markets are :heartpulse:
--->
+<br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisht23&show_icons=true&theme=tokyonight)
+<br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisht23&layout=compact&theme=)
+<br><br>
